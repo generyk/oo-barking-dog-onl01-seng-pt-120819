@@ -1,1 +1,8 @@
-hi pat
+class Dog 
+  
+  def .name=()
+
+
+
+
+end 
